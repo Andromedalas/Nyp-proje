@@ -1,1 +1,1 @@
-# Nyp-proje
+# Nyp-projemin dosyaları yer almaktadır
